@@ -1,0 +1,1 @@
+{"name":"Local: w_shape_3_repeat","url":"d:\\Phitron\\C programming\\CodeForces\\w_shape_3_repeat.c","tests":[{"id":1777965296398,"input":"4","output":"   *\n  ***\n *****\n*******\n *****\n  ***\n   *\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\C programming\\CodeForces\\w_shape_3_repeat.c","group":"local","local":true}

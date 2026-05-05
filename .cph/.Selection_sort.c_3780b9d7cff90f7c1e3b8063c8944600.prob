@@ -1,0 +1,1 @@
+{"name":"Local: Selection_sort","url":"d:\\Phitron\\C programming\\CodeForces\\Selection_sort.c","tests":[{"id":1777968691949,"input":"7\n10 50 30 20 90 40 60","output":"10 20 30 40 50 60 90"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\C programming\\CodeForces\\Selection_sort.c","group":"local","local":true}

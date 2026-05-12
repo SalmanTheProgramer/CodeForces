@@ -1,0 +1,1 @@
+{"name":"Local: T_Matrix_updated","url":"d:\\Phitron\\C programming\\CodeForces\\T_Matrix_updated.c","tests":[{"id":1778578069022,"input":"4\n1 5 12 1\n2 -4 6 7\n3 8 5 9\n3 5 23 -6","output":"22"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\C programming\\CodeForces\\T_Matrix_updated.c","group":"local","local":true}

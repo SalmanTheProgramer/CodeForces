@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+    O_Sort String 
+    This was solved by using Frequency Array + Dynamic Memory Allocation.
+    Dynamic memory allocation topic covered here...
+*/
+
 int main() {
     
     int n;
